@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
  <router-view />
 </template>
 
@@ -7,4 +7,4 @@
 </script>
 
 <style scoped>
-</style> -->
+</style>
